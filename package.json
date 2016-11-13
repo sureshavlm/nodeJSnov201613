@@ -1,0 +1,14 @@
+{
+  "name": "aquoteaday",
+  "version": "1.0.0",
+  "description": "This is my first cloud nodeJS application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suresh_edureka <suresh.avlm@gmail.com> (http://suresh.avlm.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
